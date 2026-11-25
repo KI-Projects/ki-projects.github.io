@@ -6,7 +6,7 @@ In order to reference a photo or video of your own in the Hydra web platform, yo
 <ol>
 <li>Share your video from your phone to your computer.</li>
 <li>Locate your file on your computer and add your name to the filename, keeping the extension unchanged (i.e. IMG_1597-Sara.mp4).</li>
-<li>Head over to <a href="https://express.adobe.com/">https://express.adobe.com/</a> and log in using your VCU email credentials.</li>
+<li>Head over to <a href="https://express.adobe.com/" target="_blank">https://express.adobe.com/</a> and log in using your VCU email credentials.</li>
 <li>Type "mp4" into the Search bar and click on "Convert to MP4" in the options that pop up.</li>
 <li>Drag and drop your video file into the window.</li>
 <li>After the video uploads, you can trim it if you want. (About 20 seconds is the max for keeping the file under 25MB).</li>
@@ -14,7 +14,7 @@ In order to reference a photo or video of your own in the Hydra web platform, yo
 </ol>
 <b>Now, upload to GitHub:</b><br><br>
 <ol>
-<li>Navigate to <a href="https://github.com/KI-Projects/ki-projects.github.io">https://github.com/KI-Projects/ki-projects.github.io</a> and sign in with the credentials I posted in our assignment sheet.</li>
+<li>Navigate to <a href="https://github.com/KI-Projects/ki-projects.github.io" target="_blank">https://github.com/KI-Projects/ki-projects.github.io</a> and sign in with the credentials I posted in our assignment sheet.</li>
 <li>Click the + icon to the left of the green "code" button and select "Upload files".</li>
 <li>Drag and drop your photo (.jpg or .gif) or video (.mp4 only) file into the window. Files must be less than 25MB.</li>
 <li>Click the green "Commit changes" button at the bottom of the page. Note - if you don't do this your file won't upload!</li>
