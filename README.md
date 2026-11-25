@@ -22,7 +22,9 @@ In order to reference a photo or video of your own in the Hydra web platform, yo
 <li>After your file uploads, it will show up in the repository list.</li>
 </ol>
 <b>Referencing the file in Hydra: </b><br>
-We can tell Hydra the location your file by simply adding the filename to the end of this page's URL, after the slash - <a href="https://ki-projects.github.io">https://ki-projects.github.io/</a>. So, if you uploaded a video with the filename IMG_1597-Sara.mp4, your code will look like this:<br>
+We can tell Hydra the location your file by simply adding the filename to the end of this page's URL, after the slash - <a href="https://ki-projects.github.io">https://ki-projects.github.io/</a>. So, if you uploaded a video with the filename IMG_1597-Sara.mp4, your code will look like this:<br><br>
 
 <i>s0.initVideo("https://ki-projects.github.io/IMG_1597-Sara.mp4")<br>
 src(s0).out()</i>
+<br><br>
+You can then add on functions just like you would with any other source. <a href="https://hydra.ojack.xyz/?code=JTJGJTJGRXhhbXBsZSUyMGZvciUyMGluY2x1ZGluZyUyMG9yaWdpbmFsJTIwdmlkZW8hJTIwJTBBJTJGJTJGU2VlJTIwZnVsbCUyMHVwbG9hZCUyMGluc3RydWN0aW9ucyUyMGF0JTIwaHR0cHMlM0ElMkYlMkZraS1wcm9qZWN0cy5naXRodWIuaW8lMEElMEFzMC5pbml0VmlkZW8oJTIyaHR0cHMlM0ElMkYlMkZraS1wcm9qZWN0cy5naXRodWIuaW8lMkZJTUdfMTU5Ny1TYXJhLm1wNCUyMiklMEFzcmMoczApJTBBLm1vZHVsYXRlKCUwQSUwOXNoYXBlKDQlMkMwLjgpJTBBKSUwQS5vdXQobzApJTBBJTBBJTBB" target="_blank">See this Hydra example.</a>
