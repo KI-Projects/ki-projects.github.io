@@ -1,7 +1,7 @@
 # ki-projects.github.io
 
 <h3>How to work with original photos/video in Hydra</h3>
-In order to reference a photo or video of your own in the Hydra web platform, you need to upload it somewhere on the internet and be able to get the exact URL of that file. I have created a GitHub repository for this purpose. Keep in mind GitHub only accepts videos that are less than 25 MB (about 20 seconds long) and they can't be .mov files. Also keep in mind, I did not have the option of making this repository private so all content you upload is potentially downloadable by the public. However, I highly doubt anyone will stumble across this page in the next couple of weeks and I will delete once our class is finished. Here are the steps:<Br><br>
+In order to reference a photo or video of your own in the Hydra web platform, you need to upload it somewhere on the internet and be able to get the exact URL of that file. I have created a GitHub repository for this purpose. Keep in mind GitHub only accepts videos that are less than 25 MB (about 20 seconds long) and they can't be .mov files. Also keep in mind, I did not have the option of making this repository private, so all content you upload is potentially viewable/downloadable by the public. BUT - I highly doubt anyone will stumble across this page in the next couple of weeks and I will delete once our class is finished. :) Here are the steps:<Br><br>
 <b>First, convert your video to MP4 (Skip for photos):</b><br>
 <ol>
 <li>Share your video from your phone to your computer.</li>
@@ -14,8 +14,9 @@ In order to reference a photo or video of your own in the Hydra web platform, yo
 </ol>
 <b>Now, upload to GitHub:</b><br>
 <ol>
-<li>Navigate to <a href="https://github.com/KI-Projects/ki-projects.github.io" target="_blank">https://github.com/KI-Projects/ki-projects.github.io</a> and sign in with the credentials I posted in our assignment sheet.</li>
-<li>Click the + icon to the left of the green "code" button and select "Upload files".</li>
+<li>Navigate to <a href="https://github.com/KI-Projects/ki-projects.github.io" target="_blank">https://github.com/KI-Projects/ki-projects.github.io</a>.</li>
+<li>Click <b>Sign in</b>b> in the upper right corner and use the credentials from our <a href="https://virginiacommonwealth.instructure.com/courses/139995/assignments/1611421" target="_blank">assignment sheet</a>.</li>
+<li>Find the green "code" button and click the button to the left of it. It might look like a + icon or it might be a button that says "Add file." Then select "Upload files".</li>
 <li>Drag and drop your photo (.jpg or .gif) or video (.mp4 only) file into the window. Files must be less than 25MB.</li>
 <li>Click the green "Commit changes" button at the bottom of the page. Note - if you don't do this your file won't upload!</li>
 <li>After your file uploads, it will show up in the repository list.</li>
