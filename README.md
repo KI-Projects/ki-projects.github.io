@@ -15,7 +15,7 @@ In order to reference a photo or video of your own in the Hydra web platform, yo
 <b>Now, upload to GitHub:</b><br>
 <ol>
 <li>Navigate to <a href="https://github.com/KI-Projects/ki-projects.github.io" target="_blank">https://github.com/KI-Projects/ki-projects.github.io</a>.</li>
-<li>Click <b>Sign in</b>b> in the upper right corner and use the credentials from our <a href="https://virginiacommonwealth.instructure.com/courses/139995/assignments/1611421" target="_blank">assignment sheet</a>.</li>
+<li>Click <b>Sign in</b> in the upper right corner and use the credentials from our <a href="https://virginiacommonwealth.instructure.com/courses/139995/assignments/1611421" target="_blank">assignment sheet</a>.</li>
 <li>Find the green "code" button and click the button to the left of it. It might look like a + icon or it might be a button that says "Add file." Then select "Upload files".</li>
 <li>Drag and drop your photo (.jpg or .gif) or video (.mp4 only) file into the window. Files must be less than 25MB.</li>
 <li>Click the green "Commit changes" button at the bottom of the page. Note - if you don't do this your file won't upload!</li>
