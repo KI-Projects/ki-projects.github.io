@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Repository Files</title>
+</head>
+<body>
+
+  <h2>Files in Main Folder</h2>
+  <!-- This empty list is where JavaScript will insert the file names -->
+  <ul id="file-list"></ul>
+
+  <script>
+    const owner = 'KI-Projects';
+    const repo = 'ki-projects.github.io
+
+/';
+
+    fetch(`https://github.com{owner}/${repo}/contents/?ref=main`)
+      .then(response => response.json())
+      .then(data => {
+        const list = document.getElementById('file-list');
+
+        data.forEach(item => {
+          const listItem = document.createElement('li');
+          listItem.textContent = item.name;
+          list.appendChild(listItem);
+        });
+      })
+      .catch(error => console.error('Error fetching files:', error));
+  </script>
+
+</body>
+</html>
