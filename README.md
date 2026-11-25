@@ -22,7 +22,7 @@ In order to reference a photo or video of your own in the Hydra web platform, yo
 </ol>
 <b>Referencing the file in Hydra: </b>
 <br><br>
-We can tell Hydra the location your file by simply adding the filename to the end of this page's URL, after the slash - https://ki-projects.github.io. So, if you uploaded a video with the filename IMG_1597-Sara.mp4, your code will look like this:<br><br>
+We can tell Hydra the location your file by simply adding the filename to the end of this page's URL, after the slash - <a href="https://ki-projects.github.io">https://ki-projects.github.io/</a>. So, if you uploaded a video with the filename IMG_1597-Sara.mp4, your code will look like this:<br><br>
 
 s0.initVideo("https://ki-projects.github.io/IMG_1597-Sara.mp4")<br>
 src(s0).out()
